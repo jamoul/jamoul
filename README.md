@@ -3,6 +3,7 @@
 I'm a college student with interests in math, computer science, the natural sciences, politics, and more. Check out some of my past projects:
 
 * [Online Store Database Simulator](https://github.com/jamoul/store-sim) (uploaded from local device)
+* [Coronavirus Case Analysis](https://github.com/jamoul/covid-models) (copied from private repository)
 * [North Carolina Election Simulator](https://github.com/jamoul/get-elected)
 <!---
 - 👋 Hi, I’m @jamoul
