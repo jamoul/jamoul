@@ -2,7 +2,7 @@
 
 I'm a college student with interests in math, computer science, the natural sciences, politics, and more. Check out some of my past projects:
 
-* North Carolina Election Simulator
+* [North Carolina Election Simulator](https://github.com/jamoul/get-elected)
 <!---
 - 👋 Hi, I’m @jamoul
 - 👀 I’m interested in ...
