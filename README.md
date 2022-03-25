@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 I'm a college student with interests in math, computer science, the natural sciences, politics, and more. Check out some of my past projects:
 
